@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/QL_SPA
+/obj/Debug
+/obj
+/bin
+/bin/Debug
+/packages

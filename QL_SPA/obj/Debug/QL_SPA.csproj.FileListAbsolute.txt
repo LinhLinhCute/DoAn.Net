@@ -1,0 +1,112 @@
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\bin\Debug\QL_SPA.exe.config
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\bin\Debug\QL_SPA.exe
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\bin\Debug\QL_SPA.pdb
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\bin\Debug\RJCodeAdvance.RJControls.dll
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.csproj.AssemblyReference.cache
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.Form1.resources
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.Properties.Resources.resources
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.csproj.GenerateResource.cache
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.csproj.CoreCompileInputs.cache
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.csproj.CopyComplete
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.exe
+E:\CNPM\Đồ Án\QL_SPA\QL_SPA\obj\Debug\QL_SPA.pdb
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.AssemblyReference.cache
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.exe
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.pdb
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.exe.config
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.exe
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.pdb
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Form1.resources
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Properties.Resources.resources
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.GenerateResource.cache
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.CoreCompileInputs.cache
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.CopyComplete
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.DatLich.resources
+C:\Users\kiyoshikun\Downloads\DoAn.Net-main\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Admin.resources
+E:\DoAn.Net\QL_SPA\bin\Debug\QL_SPA.exe.config
+E:\DoAn.Net\QL_SPA\bin\Debug\QL_SPA.exe
+E:\DoAn.Net\QL_SPA\bin\Debug\QL_SPA.pdb
+E:\DoAn.Net\QL_SPA\bin\Debug\RJCodeAdvance.RJControls.dll
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.csproj.AssemblyReference.cache
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.Admin.resources
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.DatLich.resources
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.Form1.resources
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.Properties.Resources.resources
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.csproj.GenerateResource.cache
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.csproj.CoreCompileInputs.cache
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.csproj.CopyComplete
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.exe
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.pdb
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\Anh_login.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\Anh_Register.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\BanLazerXoaMucXam.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\Capture_Login.JPG
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\Caytao.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\ChamSocDa.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\ChamSocDaChuyenSau.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\GiamBeoBapTay.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\GiamBeoToanThan.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\GoiDauDuongSinh.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\GoiDauThuong.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\google-logo.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\icon_Face.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\icon_twiter.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\Instagram-Icon.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\LieuTrinhGiamBeo.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\MassageChoPhuNuCoThai.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\MassageCoVaiGay.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\MassageToanThan.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\NanMunChuanYKhoa.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\PhunMiMatMeo.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\PhunMoiNano.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\PhunXamMayNano.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\spathuylieu_goc.png
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\TrietLongTayChan.jpg
+E:\DoAn.Net\QL_SPA\bin\Debug\Image\TrietLongVungNach.jpg
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.DatLich_Admin_.resources
+E:\DoAn.Net\QL_SPA\obj\Debug\QL_SPA.HS_KhachHang.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\Anh_login.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\Anh_Register.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\BanLazerXoaMucXam.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\Capture_Login.JPG
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\Caytao.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\ChamSocDa.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\ChamSocDaChuyenSau.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\GiamBeoBapTay.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\GiamBeoToanThan.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\GoiDauDuongSinh.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\GoiDauThuong.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\google-logo.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\icon_Face.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\icon_twiter.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\Instagram-Icon.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\LieuTrinhGiamBeo.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\MassageChoPhuNuCoThai.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\MassageCoVaiGay.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\MassageToanThan.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\NanMunChuanYKhoa.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\PhunMiMatMeo.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\PhunMoiNano.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\PhunXamMayNano.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\spathuylieu_goc.png
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\TrietLongTayChan.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\Image\TrietLongVungNach.jpg
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.exe.config
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.exe
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\QL_SPA.pdb
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\bin\Debug\RJCodeAdvance.RJControls.dll
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Admin.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.DatLich_Admin_.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.DatLich.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Form1.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.HS_KhachHang.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.exe
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.pdb
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.KhachHang_Admin_.resources
+C:\Users\Admin\Desktop\DoAn.Net-main\QL_SPA\obj\Debug\QL_SPA.NhanVien.resources
